@@ -5,3 +5,5 @@
 .idea/
 # 依赖（如有本地测试）
 node_modules/
+# 归档的旧版本
+*.bak
